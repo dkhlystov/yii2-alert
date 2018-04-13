@@ -1,6 +1,6 @@
 {
     "name": "dkhlystov/yii2-alert",
-    "description": "Address input widget for Yii 2 framework",
+    "description": "Alert widget for Yii 2 framework",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","alert","widget"],
     "license": "BSD-3-Clause",
